@@ -1,8 +1,8 @@
-Name/ID
-Summary
-Visual proof
-Environment
-Source URL
-Console logs
-Steps to reproduce
-Expected vs. actual results
+1. Name/ID
+2. Summary
+3. Visual proof
+4. Environment
+5. Source URL
+6. Console logs
+7. Steps to reproduce
+8. Expected vs. actual results

@@ -1,5 +1,10 @@
-Linux Terminal
-Git
-Postman
-Jmeter
-JS
+1. LinuxTerminal
+2. Git
+3. Postman
+4. Jmeter
+5. JS
+6. Charles
+7. BugReports
+8. CheckLists
+9. SQL
+10. MobileTesting

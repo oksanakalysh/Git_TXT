@@ -1,4 +1,5 @@
-favourite movie
-favourite food
-spring
-USA
+favourite Movie: HomeAlone
+favourite Serial: Friends
+favourite Food: pizza
+favourite Season: spring
+the country you would like to visit: USA
