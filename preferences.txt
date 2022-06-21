@@ -1,5 +1,5 @@
 favourite Movie: HomeAlone
 favourite Serial: Friends
-favourite Food: pizza
-favourite Season: spring
+favourite Food: Pizza
+favourite Season: Spring
 the country you would like to visit: USA
