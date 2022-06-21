@@ -1,4 +1,4 @@
-Oksana Kalysh
-35 y.
-0 pets
-1000$
+Name: Oksana Kalysh
+Age: 35
+Pets: No pets
+Salary: 1000$
